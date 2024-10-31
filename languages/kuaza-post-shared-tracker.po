@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kpst - Konularin sosyal paylasim sayisi v1.0\n"
+"POT-Creation-Date: 2014-09-15 20:54+0100\n"
+"PO-Revision-Date: 2014-09-15 20:54+0100\n"
+"Last-Translator: kuaza <kuaza.ca@gmail.com>\n"
+"Language-Team: Kuaza <kuaza.ca@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:11
+msgid "KPST shared counter Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:12
+msgid "Display Shared counter widget (KPST)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:26
+msgid "Total shared counter"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:68
+msgid "Templates for widget:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:73
+msgid "Templates for Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:75
+msgid "facebook share count:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:76
+msgid "twitter share count:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:77
+msgid "google share count:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:78
+msgid "linkedin share count:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:79
+msgid "stumbleupon share count:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:80
+msgid "Pinterest share count:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:81
+msgid "All share count (total):"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:317
+msgid "Example: (same demo)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:231
+msgid "KPST most shared posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:232
+msgid "Display most popular shared posts (KPST)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:250
+msgid "Popular shared posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:290
+msgid "Templates for loop Before:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:294
+msgid "Templates for loop: (loop)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:298
+msgid "Templates for loop After:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:302
+msgid "Templates for Parameters (only loop)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:304
+msgid "Post title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:305
+msgid "Post link (direct url)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:306
+msgid "Total comments"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:307
+msgid "facebook share count"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:308
+msgid "twitter share count"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:309
+msgid "google share count"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:310
+msgid "linkedin share count"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:311
+msgid "stumbleupon share count"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:312
+msgid "Pinterest share count"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:313
+msgid "All share count (total)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:49
+msgid "Kpst options"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:128
+msgid "Hidden this post kpst social tracker button"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:149
+msgid "Kpst social tracker"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:167
+msgid "WordPress Post social shared tracker"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:167
+msgid "Shared counter"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:440
+msgid "<h3>Plugin info</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:441
+msgid "<strong>Plugin name:</strong> Social website posts Shared counter"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:442
+msgid ""
+"<strong>Plugin description:</strong> All posts how many shared social web "
+"site (facebook, twitter, google+,linkedin,pinterest,stumbleupon and total) "
+"counter display and save."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:443
+msgid "<strong>Plugin version:</strong> v1.0 (first version)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:444
+msgid ""
+"<strong>Plugin Release and support:</strong> 10/07/2014 / <a href='http://"
+"makaleci.com/wp-konularinizin-ne-kadar-paylasildigini-gosterin-"
+"facebooktwittergoogle-v-s.html' target='_blank'>Release and support page</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:445
+msgid "<strong>Plugin author:</strong> Selcuk kilic (kuaza)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:446
+msgid ""
+"<strong>Plugin Widget support:</strong> Yes 2 widget support (like this)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:447
+msgid ""
+"<strong>Plugin support:</strong> <a href='http://makaleci.com/wp-"
+"konularinizin-ne-kadar-paylasildigini-gosterin-facebooktwittergoogle-v-s."
+"html' target='_blank'>Support plugins release page (comments)</a> or this "
+"email: kuaza.ca@gmail.com"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:448
+msgid "<strong>Author social profiles:</strong>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:457
+msgid "<h3>Donate for support</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:472
+msgid "<h4>Thanks for support donation..</h4>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:474
+msgid "<h3><em>Please support add my project link your website</em></h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:476
+msgid "<h3>My other project</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:477
+msgid ""
+"<a href='http://piclect.com'>Image upload, create collections and share</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:478
+msgid "<a href='http://makaleci.com'>Latest news and articles. (Turkish)</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:479
+msgid ""
+"<a href='http://www.ressim.net'>Only image upload and shared. Simple and "
+"basic</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:483
+msgid "<h3>Change log</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:484
+msgid "Please look plugin page"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:501
+msgid "<h3>Plugins index</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:503
+msgid "<h3>Settings</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:505
+msgid "<h3>Re-generator istatistik</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:990
+msgid "Update settings for plugins"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:999
+msgid "Enable plugin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1001
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1014
+msgid "Default 'yes'"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1006
+msgid "Cache time for check (minutes)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1008
+msgid "Default 60 minutes (1 hours)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1012
+msgid "Disable for search bot counter"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1018
+msgid "Ajax show"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1020
+msgid "Settimeout default '1000' (seconds)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1024
+msgid "Auto added post or v.s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1026
+msgid "select where? default 'content Before'"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1029
+msgid "Content before"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1030
+msgid "Content after"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1037
+msgid "Template for custom"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1045
+msgid "Templates label:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1048
+msgid "facebook share count."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1049
+msgid "twitter share count."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1050
+msgid "google share count."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1051
+msgid "linkedin share count."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1052
+msgid "stumbleupon share count."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1053
+msgid "Pinterest share count."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1054
+msgid "All share count (total)."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1055
+msgid "post ID."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1056
+msgid "post url for link."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1057
+msgid "post title for link."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1058
+msgid "Wlops Direct link."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1059
+msgid "Wlops out link."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1060
+msgid "Wlops out click number."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1068
+msgid "Extra CSS/JS codes (add head)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1076
+msgid "extra css/js or other codes added header"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1082
+msgid "Update settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1094
+msgid "Manuel code for themes"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1125
+msgid "DEMO"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1128
+msgid "Example templates (same demo)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1159
+msgid "Example css or js (same demo)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1427
+msgid "Before page"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1430
+msgid "Next page"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1433
+msgid "Finish ;)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1448
+msgid "Regenerator new istatistik"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1450
+msgid "List al post"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1451
+msgid "Regenerator counter all posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1453
+msgid ""
+"Warning: At a time when the structure of your visitors that you at least."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1454
+msgid "Before change cache time area = 0"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1461
+msgid "Update all posts"
+msgstr ""

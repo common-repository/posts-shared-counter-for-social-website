@@ -1,0 +1,449 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kpst - Konularin sosyal paylasim sayisi v1.0\n"
+"POT-Creation-Date: 2014-09-18 15:42+0100\n"
+"PO-Revision-Date: 2014-09-18 17:43+0100\n"
+"Last-Translator: kuaza <kuaza.ca@gmail.com>\n"
+"Language-Team: Kuaza <kuaza.ca@gmail.com>\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__\n"
+"X-Poedit-Basepath: .\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:11
+msgid "KPST shared counter Widget"
+msgstr "KPST shared counter Widget"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:12
+msgid "Display Shared counter widget (KPST)"
+msgstr "Prikaži Shared counter widget (KPST)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:26
+msgid "Total shared counter"
+msgstr "Brojač ukupnog deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:68
+msgid "Templates for widget:"
+msgstr "Šabloni za widget:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:73
+msgid "Templates for Parameters"
+msgstr "Šabloni za parametre"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:75
+msgid "facebook share count:"
+msgstr "Broj deljenja za Facebook"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:76
+msgid "twitter share count:"
+msgstr "Broj deljenja za Twitter"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:77
+msgid "google share count:"
+msgstr "Broj deljenja za Google"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:78
+msgid "linkedin share count:"
+msgstr "Broj deljenja za LinkedIn"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:79
+msgid "stumbleupon share count:"
+msgstr "Broj deljenja za Stumbleupon"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:80
+msgid "Pinterest share count:"
+msgstr "Broj deljenja za Pinterest "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:81
+msgid "All share count (total):"
+msgstr "Broj svih deljenja (ukupno)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:317
+msgid "Example: (same demo)"
+msgstr "Primer: (isti demo)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:231
+msgid "KPST most shared posts"
+msgstr "KPST postovi sa najvećim brojem deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:232
+msgid "Display most popular shared posts (KPST)"
+msgstr "Prikaži najpopularnije deljene postove(KPST)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:250
+msgid "Popular shared posts"
+msgstr "Popularni deljeni postovi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:290
+msgid "Templates for loop Before:"
+msgstr "Šabloni za petlju (Pre):"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:294
+msgid "Templates for loop: (loop)"
+msgstr "Šabloni za petlju: (petlja)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:298
+msgid "Templates for loop After:"
+msgstr "Šabloni za petlju (Posle)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:302
+msgid "Templates for Parameters (only loop)"
+msgstr "Šabloni za parametre (samo petlja)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:304
+msgid "Post title"
+msgstr "Naslov posta"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:305
+msgid "Post link (direct url)"
+msgstr "Link za post (direktan url)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:306
+msgid "Total comments"
+msgstr "Ukupan broj komentara"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:307
+msgid "facebook share count"
+msgstr "Broj facebook deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:308
+msgid "twitter share count"
+msgstr "Broj twitter deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:309
+msgid "google share count"
+msgstr "Broj google deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:310
+msgid "linkedin share count"
+msgstr "Broj linkedin deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:311
+msgid "stumbleupon share count"
+msgstr "Broj stumbleupon deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:312
+msgid "Pinterest share count"
+msgstr "Broj Pinterest deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/class.kpst-counter-widget.php:313
+msgid "All share count (total)"
+msgstr "Broj svih deljenja (ukupan)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:49
+msgid "Kpst options"
+msgstr "Kpst opcija"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:128
+msgid "Hidden this post kpst social tracker button"
+msgstr "Sakri ovaj post kpst social tracker button"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:149
+msgid "Kpst social tracker"
+msgstr "Kpst social"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:167
+msgid "WordPress Post social shared tracker"
+msgstr "WordPress Post social shared tracker"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:167
+msgid "Shared counter"
+msgstr "Brojač podeljenih postova"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:440
+msgid "<h3>Plugin info</h3>"
+msgstr "<h3>Plugin info</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:441
+msgid "<strong>Plugin name:</strong> Social website posts Shared counter"
+msgstr "<strong>Naziv plugin-a:</strong> Social website posts Shared counter"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:442
+msgid ""
+"<strong>Plugin description:</strong> All posts how many shared social web "
+"site (facebook, twitter, google+,linkedin,pinterest,stumbleupon and total) "
+"counter display and save."
+msgstr ""
+"<strong>Opis plugin-a:</strong>Prati koliko je puta post podeljen na "
+"društvenim mrežama (facebook, twitter, google+, linkedin, pinterest, "
+"stumbleupon i ukupno), prikazuje i čuva broj. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:443
+msgid "<strong>Plugin version:</strong> v1.0 (first version)"
+msgstr "<strong>Plugin verzija:</strong> v1.0 (prva verzija) "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:444
+msgid ""
+"<strong>Plugin Release and support:</strong> 10/07/2014 / <a href='http://"
+"makaleci.com/wp-konularinizin-ne-kadar-paylasildigini-gosterin-"
+"facebooktwittergoogle-v-s.html' target='_blank'>Release and support page</a>"
+msgstr ""
+"<strong>Objavljivanje plugin-a i podrška:</strong> 10/07/2014 / <a "
+"href='http://makaleci.com/wp-konularinizin-ne-kadar-paylasildigini-gosterin-"
+"facebooktwittergoogle-v-s.html' target='_blank'>Stranica za objave i "
+"podršku</a>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:445
+msgid "<strong>Plugin author:</strong> Selcuk kilic (kuaza)"
+msgstr "<strong>Autor plugin-a:</strong> Selcuk kilic (kuaza)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:446
+msgid ""
+"<strong>Plugin Widget support:</strong> Yes 2 widget support (like this)"
+msgstr ""
+"<strong>Plugin Widget support:</strong> Yes za widget podršku (kao što je "
+"ova)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:447
+msgid ""
+"<strong>Plugin support:</strong> <a href='http://makaleci.com/wp-"
+"konularinizin-ne-kadar-paylasildigini-gosterin-facebooktwittergoogle-v-s."
+"html' target='_blank'>Support plugins release page (comments)</a> or this "
+"email: kuaza.ca@gmail.com"
+msgstr ""
+"<strong>Podrška za plugin:</strong> <a href='http://makaleci.com/wp-"
+"konularinizin-ne-kadar-paylasildigini-gosterin-facebooktwittergoogle-v-s."
+"html' target='_blank'>Support plugins release page (comments)</a> ili ova "
+"email adresa: kuaza.ca@gmail.com"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:448
+msgid "<strong>Author social profiles:</strong>"
+msgstr "<strong>Društveni profili autora:</strong>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:457
+msgid "<h3>Donate for support</h3>"
+msgstr "<h3>Donirajte za podršku</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:472
+msgid "<h4>Thanks for support donation..</h4>"
+msgstr "<h4>Hvala za donaciju za podršku...</h4>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:474
+msgid "<h3><em>Please support add my project link your website</em></h3>"
+msgstr ""
+"<h3><em>Molim vas za podršku, dodajte link za moj projekat na svoj web site</"
+"em></h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:476
+msgid "<h3>My other project</h3>"
+msgstr "<h3>Moj drugi projekat</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:477
+msgid ""
+"<a href='http://piclect.com'>Image upload, create collections and share</a>"
+msgstr ""
+"<a href='http://piclect.com'>Otpremite slike, kreirajte kolekciju i "
+"podelite</a>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:478
+msgid "<a href='http://makaleci.com'>Latest news and articles. (Turkish)</a>"
+msgstr "<a href='http://makaleci.com'>Najnovije vesti i članci. (Turski)</a>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:479
+msgid ""
+"<a href='http://www.ressim.net'>Only image upload and shared. Simple and "
+"basic</a>"
+msgstr ""
+"<a href='http://www.ressim.net'> Otpremanje i deljenje isključivo slika. "
+"Jednostavan, sa osnovnim funkcijama</a> "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:483
+msgid "<h3>Change log</h3>"
+msgstr "<h3>Dnevnik izmena</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:484
+msgid "Please look plugin page"
+msgstr "Molimo Vas da pogledate stranicu plugin-a"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:501
+msgid "<h3>Plugins index</h3>"
+msgstr "<h3>Plagin indeks </h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:503
+msgid "<h3>Settings</h3>"
+msgstr "<h3>Podešavanja</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:505
+msgid "<h3>Re-generator istatistik</h3>"
+msgstr "h3>Re-generator istatistik</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:990
+msgid "Update settings for plugins"
+msgstr "Ažurirajte podešavanja za plugin-e"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:999
+msgid "Enable plugin"
+msgstr "Aktiviraj plugin"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1001
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1014
+msgid "Default 'yes'"
+msgstr "Podrazumevano ‘da’"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1006
+msgid "Cache time for check (minutes)"
+msgstr "Vreme proveravanja keša (minuti)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1008
+msgid "Default 60 minutes (1 hours)"
+msgstr "Podrazumevano 60 minuta (1 sat)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1012
+msgid "Disable for search bot counter"
+msgstr "Deaktiviraj za brojač pretraživača robota"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1018
+msgid "Ajax show"
+msgstr "Deaktiviraj za brojač pretraživača robota"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1020
+msgid "Settimeout default '1000' (seconds)"
+msgstr "Podesi vreme isteka na standardnu vrednost ‘1000’ (sekundi)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1024
+msgid "Auto added post or v.s"
+msgstr "Automatski dodat post ili v.s."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1026
+msgid "select where? default 'content Before'"
+msgstr "Selektuj gde? podrazumevani ‘sadržaj pre’"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1029
+msgid "Content before"
+msgstr "Sadržaj pre"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1030
+msgid "Content after"
+msgstr "Sadržaj posle"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1037
+msgid "Template for custom"
+msgstr "Šablon za prilagođeni"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1045
+msgid "Templates label:"
+msgstr "Oznaka šablona:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1048
+msgid "facebook share count."
+msgstr "Broj facebook deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1049
+msgid "twitter share count."
+msgstr "Broj twitter deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1050
+msgid "google share count."
+msgstr "Broj google deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1051
+msgid "linkedin share count."
+msgstr "Broj linkedin deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1052
+msgid "stumbleupon share count."
+msgstr "Broj stumbleupon deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1053
+msgid "Pinterest share count."
+msgstr "Broj Pinterest deljenja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1054
+msgid "All share count (total)."
+msgstr "Broj svih deljenja (ukupan)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1055
+msgid "post ID."
+msgstr "post ID."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1056
+msgid "post url for link."
+msgstr "postavi url za link:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1057
+msgid "post title for link."
+msgstr "postavi naslov za link:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1058
+msgid "Wlops Direct link."
+msgstr "Wlops Direktni link."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1059
+msgid "Wlops out link."
+msgstr "Wlops spoljni link."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1060
+msgid "Wlops out click number."
+msgstr "Wlops spoljni klik broj."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1068
+msgid "Extra CSS/JS codes (add head)"
+msgstr "Dodatni CSS/JS kodovi (dodaj zaglavlje)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1076
+msgid "extra css/js or other codes added header"
+msgstr "Dodatni css/js ili drugi kodovi dodati u zaglavlje"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1082
+msgid "Update settings"
+msgstr "Ažuriraj podešavanja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1094
+msgid "Manuel code for themes"
+msgstr "Manuelan kod za teme"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1125
+msgid "DEMO"
+msgstr "DEMO"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1128
+msgid "Example templates (same demo)"
+msgstr "Šabloni primera (isti demo)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1159
+msgid "Example css or js (same demo)"
+msgstr "Primer za css ili js (isti demo)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1427
+msgid "Before page"
+msgstr "Pre stranice"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1430
+msgid "Next page"
+msgstr "Sledeća stranica"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1433
+msgid "Finish ;)"
+msgstr "Kraj ;)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1448
+msgid "Regenerator new istatistik"
+msgstr "Regenerator new istatistik"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1450
+msgid "List al post"
+msgstr "Izlistaj sve postove"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1451
+msgid "Regenerator counter all posts"
+msgstr "Regenerator brojač svih postova"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1453
+msgid ""
+"Warning: At a time when the structure of your visitors that you at least."
+msgstr "Upozorenje: U vreme kad je struktura vaših posetilaca bar"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1454
+msgid "Before change cache time area = 0"
+msgstr "Vreme keša pre promene = 0"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\posts-shared-counter-for-social-website/kuaza-post-shared-counter.php:1461
+msgid "Update all posts"
+msgstr "Ažuriraj sve postove"

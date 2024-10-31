@@ -1,0 +1,458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kpst - Konularin sosyal paylasim sayisi v1.0\n"
+"POT-Creation-Date: 2014-07-10 17:38+0100\n"
+"PO-Revision-Date: 2014-07-10 17:39+0100\n"
+"Last-Translator: kuaza <kuaza.ca@gmail.com>\n"
+"Language-Team: Kuaza <kuaza.ca@gmail.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\kuaza-post-"
+"shared-tracker\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_e;__;esc_html_e;_\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\kuaza-"
+"post-shared-tracker\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:11
+msgid "KPST shared counter Widget"
+msgstr "KPST toplam paylasim sayilari"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:12
+msgid "Display Shared counter widget (KPST)"
+msgstr "Toplam paylasim istatistiklerini gosterir"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:26
+msgid "Total shared counter"
+msgstr "Toplam paylasim sayilari"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:59
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:265
+msgid "Title:"
+msgstr "Baslik:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:63
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:269
+msgid "Cache time:"
+msgstr "Cache suresi (dakika)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:68
+msgid "Templates for widget:"
+msgstr "Tema bilesen icin"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:73
+msgid "Templates for Parameters"
+msgstr "Tema parametreleri"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:75
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:616
+msgid "facebook share count:"
+msgstr "Facebook paylasim/begeni/yorum sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:76
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:617
+msgid "twitter share count:"
+msgstr "Twitter twit sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:618
+msgid "google share count:"
+msgstr "Google paylasim sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:78
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:619
+msgid "linkedin share count:"
+msgstr "Linkedin paylasim sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:79
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:620
+msgid "stumbleupon share count:"
+msgstr "Stumbleupon goruntulenme sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:80
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:621
+msgid "Pinterest share count:"
+msgstr "Pinterest pin sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:81
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:622
+msgid "All share count (total):"
+msgstr "Butun paylasimlarin toplami"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:85
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:319
+msgid "Example: (same demo)"
+msgstr "Ornek: (demo ile ayni)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:233
+msgid "KPST most shared posts"
+msgstr "KPST en cok paylasilan konular"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:234
+msgid "Display most popular shared posts (KPST)"
+msgstr "En cok paylasilan  konulari goster (KPST)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:252
+msgid "Popular shared posts"
+msgstr "Populer paylasilan konular"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:273
+msgid "Order by:"
+msgstr "Buna gore sirala"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:276
+msgid "Total (All)"
+msgstr "Hepsi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:277
+msgid "facebook"
+msgstr "Facebook"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:278
+msgid "Twitter"
+msgstr "Twitter"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:279
+msgid "Google"
+msgstr "Google"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:280
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:281
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:282
+msgid "Stumble"
+msgstr "Stumble"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:287
+msgid "Limit (default:5):"
+msgstr "Limit (kac tane gosterilecek, default 5)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:292
+msgid "Templates for loop Before:"
+msgstr "Tema en ust (dongu basi)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:296
+msgid "Templates for loop: (loop)"
+msgstr "Tema dongu icerigi (loop)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:300
+msgid "Templates for loop After:"
+msgstr "Tema en son (dongu sonu)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:304
+msgid "Templates for Parameters (only loop)"
+msgstr "Tema parametreleri (sadece dongude gecerlidir)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:306
+msgid "Post title"
+msgstr "Konu basligi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:307
+msgid "Post link (direct url)"
+msgstr "Konu linki (direk link)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:308
+msgid "Total comments"
+msgstr "Toplam yorum"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:309
+msgid "facebook share count"
+msgstr "facebook paylasim sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:310
+msgid "twitter share count"
+msgstr "Twit sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:311
+msgid "google share count"
+msgstr "Google paylasim sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:312
+msgid "linkedin share count"
+msgstr "Linkedin paylasim sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:313
+msgid "stumbleupon share count"
+msgstr "Stumbleupon gosterim sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:314
+msgid "Pinterest share count"
+msgstr "Pinterest pin sayisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/class.kpst-counter-widget.php:315
+msgid "All share count (total)"
+msgstr "Toplam paylasim sayilari (genel/butun konular)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:33
+msgid "WordPress Post social shared tracker"
+msgstr ""
+"Wordpress sayfalarinizin sosyal paylasim sitelerinden ne kadar populer "
+"olduklarini gosterir (kaydeder)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:33
+msgid "Shared counter"
+msgstr "Paylasim takipcisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:95
+msgid "<h3>Plugin info</h3>"
+msgstr "<h3>Eklenti detaylari</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:96
+msgid "<strong>Plugin name:</strong> Social website posts Shared counter"
+msgstr ""
+"<strong>Eklenti ismi:</strong> Konularinizin sosyal medayadaki paylasim "
+"sayilari"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:97
+msgid ""
+"<strong>Plugin description:</strong> All posts how many shared social web "
+"site (facebook, twitter, google+,linkedin,pinterest,stumbleupon and total) "
+"counter display and save."
+msgstr ""
+"<strong>Eklenti aciklamasi:</strong> Sitenizde bulunan konular ve sayfalar "
+"icin istatistik tutar. Sosyal paylasim sitelerinde ne kadar paylasildigini "
+"kaydederek bunu kullaniciya gosterebilirsiniz. Korkmayin kendinden cache "
+"ozelligi bulunmaktadir :)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:98
+msgid "<strong>Plugin version:</strong> v1.0 (first version)"
+msgstr "<strong>Eklenti versiyonu:</strong> v1.0 (ilk  versiyon)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:99
+msgid ""
+"<strong>Plugin Release and support:</strong> 10/07/2014 / <a href='http://"
+"makaleci.com/wp-konularinizin-ne-kadar-paylasildigini-gosterin-"
+"facebooktwittergoogle-v-s.html' target='_blank'>Release and support page</a>"
+msgstr ""
+"<strong>Eklenti cikis tarihi ve destek:</strong> 10/07/2014 / <a "
+"href='http://makaleci.com/wp-konularinizin-ne-kadar-paylasildigini-gosterin-"
+"facebooktwittergoogle-v-s.html' target='_blank'>Yayinlandigi sayfa ve destek "
+"bolumu</a>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:100
+msgid "<strong>Plugin author:</strong> Selcuk kilic (kuaza)"
+msgstr "<strong>Eklenti yazari:</strong> Selcuk kilic (kuaza)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:101
+msgid ""
+"<strong>Plugin Widget support:</strong> Yes 2 widget support (like this)"
+msgstr ""
+"<strong>Eklenti Widget(bilesen) destegi:</strong> Evet iki tane bulunuyor. "
+"(ikiside harika)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:102
+msgid ""
+"<strong>Plugin support:</strong> <a href='http://makaleci.com/wp-"
+"konularinizin-ne-kadar-paylasildigini-gosterin-facebooktwittergoogle-v-s."
+"html' target='_blank'>Support plugins release page (comments)</a> or this "
+"email: kuaza.ca@gmail.com"
+msgstr ""
+"<strong>Eklenti destek:</strong> <a href='http://makaleci.com/wp-"
+"konularinizin-ne-kadar-paylasildigini-gosterin-facebooktwittergoogle-v-s."
+"html' target='_blank'>Eklenti duyuru sayfasinda yorum ile destek "
+"alabilirsiniz</a> yada bu mail yolu ile: kuaza.ca@gmail.com"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:103
+msgid "<strong>Author social profiles:</strong>"
+msgstr "<strong>Eklenti yazarina ait sosyal site profilleri:</strong>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:112
+msgid "<h3>Donate for support</h3>"
+msgstr "<h3>Destek icin bagis yapin</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:127
+msgid "<h4>Thanks for support donation..</h4>"
+msgstr "<h4>Destek icin bagis yaparsaniz cok minnettar kalirim...</h4>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:129
+msgid "<h3><em>Please support add my project link your website</em></h3>"
+msgstr ""
+"<h3><em>Lutfen destek icin proje sitelerimdeki linklerden herhangi birini "
+"sitenize link olarak ekleyin</em></h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:131
+msgid "<h3>My other project</h3>"
+msgstr "<h3>Benim diger projelerim</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:132
+msgid ""
+"<a href='http://piclect.com'>Image upload, create collections and share</a>"
+msgstr ""
+"<a href='http://piclect.com'>Resim yukleme, koleksiyon olusturma ve daha "
+"fazlasi</a>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:133
+msgid "<a href='http://makaleci.com'>Latest news and articles. (Turkish)</a>"
+msgstr "<a href='http://makaleci.com'>Guncel bilgi deposu - makaleci.com</a>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:134
+msgid ""
+"<a href='http://www.ressim.net'>Only image upload and shared. Simple and "
+"basic</a>"
+msgstr "<a href='http://www.ressim.net'>Basit ve hizli resim yukle</a>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:138
+msgid "<h3>Change log</h3>"
+msgstr "<h3>Yenilikler neler (change log)</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:141
+msgid "Release plugins"
+msgstr "Eklenti yayinlandi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:159
+msgid "<h3>Plugins index</h3>"
+msgstr "<h3>Eklenti ana sayfasi</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:161
+msgid "<h3>Settings</h3>"
+msgstr "<h3>Ayarlari guncelle</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:163
+msgid "<h3>Re-generator istatistik</h3>"
+msgstr "<h3>Istatistikleri tekrar-olustur</h3>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:558
+msgid "Update settings for plugins"
+msgstr "Eklenti ayarlari kaydedildi.."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:567
+msgid "Enable plugin"
+msgstr "Eklentiyi aktif et"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:569
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:582
+msgid "Default 'yes'"
+msgstr "Default 'yes' (evet)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:574
+msgid "Cache time for check (minutes)"
+msgstr "Sonuclarin cachede kalacak sureyi belirleyin (dakika)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:576
+msgid "Default 60 minutes (1 hours)"
+msgstr "Default 60 dakika (1 saat eder)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:580
+msgid "Disable for search bot counter"
+msgstr "Arama motorlarindan gizle"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:586
+msgid "Ajax show"
+msgstr "Ajax ile goster"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:588
+msgid "Settimeout default '1000' (seconds)"
+msgstr ""
+"Ajax yuklerken gecikme ekleyin (sayfa hizina etki eder) tavsiye 500 yada "
+"1000 mili saniyedir"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:592
+msgid "Auto added post or v.s"
+msgstr "Yazilara otomatik ekle"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:594
+msgid "select where? default 'content Before'"
+msgstr "Bir bolge secin, defaul 'content before' yazidan once yani"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:597
+msgid "Content before"
+msgstr "yazidan once"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:598
+msgid "Content after"
+msgstr "Yazidan sonra"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:605
+msgid "Template for custom"
+msgstr "Ozel tema belirleyin"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:613
+msgid "Templates label:"
+msgstr "Tema alani"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:623
+msgid "post url for link:"
+msgstr "Konu linki"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:624
+msgid "post title for link:"
+msgstr "Konu linki"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:633
+msgid "Extra CSS/JS codes (add head)"
+msgstr "Ekstra css/JS"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:641
+msgid "extra css/js or other codes added header"
+msgstr ""
+"Ekstra css/js alani (temanizin header bolumune ekler (<head> taglari arasina)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:647
+msgid "Update settings"
+msgstr "Ayarlari guncelle"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:659
+msgid "Manuel code for themes"
+msgstr "El ile temaya ekleyin"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:690
+msgid "DEMO"
+msgstr "Demo kodlar"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:693
+msgid "Example templates (same demo)"
+msgstr "Ornek tema yapisi (demodaki ile ayni)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:720
+msgid "Example css or js (same demo)"
+msgstr "Ornek css/js kodlari (demodaki ile ayni)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:988
+msgid "Before page"
+msgstr "Onceki sayfa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:991
+msgid "Next page"
+msgstr "Sonraki sayfa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:994
+msgid "Finish ;)"
+msgstr "Bitti :) tebrikler."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1009
+msgid "Regenerator new istatistik"
+msgstr "Yeniden olustur istatistikleri"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1011
+msgid "List al post"
+msgstr "Butun konulari listele"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1012
+msgid "Regenerator counter all posts"
+msgstr "Konular icin istatistikleri yeniden olusturun"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1014
+msgid ""
+"Warning: At a time when the structure of your visitors that you at least."
+msgstr ""
+"Dikkat: Ziyaretcilerinizin en az oldugu bir zamanda yapmaniz mantikli olur. "
+"Gece olabilir. (Cok fark etmez ancak yinede onerilir)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1015
+msgid "Before change cache time area = 0"
+msgstr ""
+"Once cache suresi kismini degistirin ve 0 yapin <em>(burasi: Sonuclarin "
+"cachede kalacak sureyi belirleyin (dakika))</em>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\kuaza-post-shared-tracker/kuaza-post-shared-counter.php:1022
+msgid "Update all posts"
+msgstr "Butun konulari guncelle"
